@@ -19,7 +19,7 @@ This is my portfolio website which will be showcase my skills at one place
 
 |       Projects Page     |
 :-------------------------:
-![image](https://github.com/bishalprasad321/My-Portfolio-Website/assets/70791507/0edbfa9e-8b6e-409d-a8c6-8a6137a59425)
+![image](https://github.com/bishalprasad321/My-Portfolio-Website/assets/70791507/dc68580a-1cd4-4b7a-a4a3-d0ddb96668df)
 
 |       Contact Page     |
 :-------------------------:
